@@ -4,6 +4,7 @@ Experimental board for the Tiva C Series TM4C123GXL LaunchPad
 ## Modules
 | Section| Description| Test|
 | ----- | ---- | ---- |
+| Buck voltage regulator |  | No |
 | LEDs |  | No |
 | Push buttons |  | No |
 | Buzzer |  | No |
