@@ -12,7 +12,7 @@ Experimental board for the Tiva C Series [TM4C123GXL](http://www.ti.com/tool/EK-
 | Temperature sensor (analog or digital) | | | No |
 | Potenciometers | | | No |
 | Encoder rotativo | | | No |
-| Pantalla GLCD | | | No |
+| Pantalla GLCD, OLED or TFT| | | No |
 | Bluetooth HC-05 | | | No |
 | MOSFET Output | | | No |
 | TRIAC Output | | | No |
